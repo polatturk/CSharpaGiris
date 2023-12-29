@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\bin\Debug\net7.0\VeriTipleri.exe
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\bin\Debug\net7.0\VeriTipleri.deps.json
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\bin\Debug\net7.0\VeriTipleri.runtimeconfig.json
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\bin\Debug\net7.0\VeriTipleri.dll
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\bin\Debug\net7.0\VeriTipleri.pdb
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\obj\Debug\net7.0\VeriTipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\obj\Debug\net7.0\VeriTipleri.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\obj\Debug\net7.0\VeriTipleri.AssemblyInfo.cs
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\obj\Debug\net7.0\VeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\obj\Debug\net7.0\VeriTipleri.dll
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\obj\Debug\net7.0\refint\VeriTipleri.dll
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\obj\Debug\net7.0\VeriTipleri.pdb
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\obj\Debug\net7.0\VeriTipleri.genruntimeconfig.cache
+C:\Users\Polat\source\repos\VeriTipleri\VeriTipleri\obj\Debug\net7.0\ref\VeriTipleri.dll
